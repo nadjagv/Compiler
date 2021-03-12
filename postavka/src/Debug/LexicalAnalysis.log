@@ -1,0 +1,29 @@
+﻿  FiniteStateMachine.cpp
+  FuncManager.cpp
+  IR.cpp
+  InterferenceGraph.cpp
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\InterferenceGraph.cpp(17,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\InterferenceGraph.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\InterferenceGraph.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\InterferenceGraph.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+  LblManager.cpp
+  LexicalAnalysis.cpp
+  LivenessAnalysis.cpp
+  SyntaxAnalysis.cpp
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(28,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(34,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(40,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(51,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(57,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(68,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(74,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(85,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(91,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(101,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(111,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\SyntaxAnalysis.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+  Token.cpp
+  VarManager.cpp
+  main.cpp
+  Generating Code...
+  LexicalAnalysis.vcxproj -> C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\Debug\LexicalAnalysis.exe

@@ -1,0 +1,4 @@
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\Projekat (2)\postavka\src\Debug\LexicalAnalysis.exe
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\Projekat (2)\postavka\src\Debug\LexicalAnalysis.pdb
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\Debug\LexicalAnalysis.exe
+C:\Users\Nadja\Documents\DRUGA GODINA\SPP1\SW_10_2018_Projekat\postavka\src\Debug\LexicalAnalysis.pdb
